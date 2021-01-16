@@ -1,0 +1,15 @@
+.menu-top {
+	display: flex;
+	align-items: center;
+
+	&__logo {
+		display: flex;
+		margin-right: 40px;
+
+		a {
+			svg {
+				width: 40px;
+			}
+		}
+	}
+}
